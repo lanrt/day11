@@ -8,7 +8,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Timer;
 import java.util.TimerTask;
-
+//未完成
 public class Main extends JPanel {
     public static BufferedImage hero0;
     public static BufferedImage hero1;
